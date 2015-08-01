@@ -1,0 +1,52 @@
+h1{
+	font-family: 'Rock Salt', cursive;
+	position: absolute;
+	color: white;
+	text-align: center;
+	display: block;
+	width: 100%;
+	font-size: 3em; 
+
+}
+
+
+h2{
+	font-family: 'Shadows Into Light', cursive;
+	
+	color: #79C2FF;
+	
+}
+section{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+p{
+	font-family: 'Armata', sans-serif;
+	text-align: justify;
+
+}
+header{
+	height: 230px;
+}
+footer img{
+	
+	border-radius: 100px;
+	margin: 10px;
+}
+
+footer{
+	height: 200px;
+	text-align: center;
+}
+
+#wrapper{
+	margin: 40px;
+	background-color: #F9F2FF;
+
+}
+#image-header{
+
+	text-align: center;
+}
